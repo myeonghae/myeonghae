@@ -27,6 +27,7 @@ SKILL SET
 
 | 1 - Basic  | 2 - Demonstrating | 3 - Proficient  | 4 - Expert |
 | ------------- | ------------- | ------------- | ------------- |
-| 관련 지식이나 경험이 매우 제한적이   | Content Cell  |  Content Cell  |  Content Cell  |
+| 관련 지식이나 경험이 매우 제한적이
+며 기본적인 업무 수행에도 상당한 | Content Cell  |  Content Cell  |  Content Cell  |
 
 
